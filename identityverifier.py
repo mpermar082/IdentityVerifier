@@ -50,4 +50,9 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+    # Added a docstring to explain the entry point
+    """
+    Command line entry point.
+    This is the main entry point of the application.
+    """
     main()
